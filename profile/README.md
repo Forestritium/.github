@@ -41,7 +41,7 @@ To keep our workspace active and relevant, we follow a 1-year activity rule:
 ---
 
 ### Member Registration and Contact
-To help us stay organized and foster a better community, we encourage all members and contributors to send an introductory email to **aarav482011@gmail.com**.
+To help us stay organized and foster a better community, we encourage all members and contributors to send an introductory email to **admin.forestritium@gmail.com**.
 
 Please include:
 * **Name**
