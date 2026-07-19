@@ -23,14 +23,11 @@ Forestritium is a volunteer-driven ecosystem where members:
 * **Be Respectful:** Treat everyone with respect. Harassment or exclusionary behavior will not be tolerated.
 * **Constructive Feedback:** When reviewing someone's work, focus on helping the them improve. Explain the reasoning behind your suggestions.
 
-#### 3. AI Usage Policy
-* **AI Assistance:** While the use of AI for writing code is permitted within this organization, it is not recommended as a primary method. We encourage manual coding to ensure deep understanding and personal skill growth. If you choose to use AI, please ensure you thoroughly review and understand the generated code before committing it.
-
-#### 4. Safety and Integrity
+#### 3. Safety and Integrity
 * **No Unethical Content:** We do not support projects designed for illegal acts, malware, or unethical AI use.
 * **Secret Management:** Never upload API keys, passwords, or sensitive tokens. Use .env files and ensure your .gitignore settings are correctly configured.
 
-#### 5. Maintenance and Inactivity Policy
+#### 4. Maintenance and Inactivity Policy
 To keep our workspace active and relevant, we follow a 1-year activity rule:
 * **Projects:** If a project has no updates for over 1 year, it must either:
     * Be deleted by the owner.
