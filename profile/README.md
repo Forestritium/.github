@@ -106,12 +106,6 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ---
 
-### **Forestritium**
-
-Making technology accessible to all through free, open-source, and open-core projects.
-
----
-
 ### Getting Started
 * **Meet the Team:** View our [Organization Members](https://github.com/orgs/Forestritium/people) to see who is part of the ecosystem.
 * **Browse Our Projects:** Check the [Repositories](https://github.com/Forestritium) tab.
